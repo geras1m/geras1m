@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Hey there 👋 I`m Anton.</h1>
 
-  <img src="images/programmer.gif" width="500"/>
+  <img src="images/programmer.gif" width="300"/>
 </div>
 
 ---
