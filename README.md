@@ -42,7 +42,7 @@
 - [Songbird](https://rolling-scopes-school.github.io/geras1m-JSFE2022Q3/songbird/pages/start_page/index.html) <br>
   HTML, SCSS, JavaScript <br>
 
--  [Online-store](https://tranquil-wisp-b3402c.netlify.app) - in progress... <br>
+-  [Online-store](https://sunny-pony-881c58.netlify.app) - in progress... <br>
   React, Redux <br>
 
    
